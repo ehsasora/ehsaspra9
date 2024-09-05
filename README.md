@@ -1,5 +1,5 @@
 # Logs
-logs 25
+logs 26
 
 *.log
 npm-debug.log*
