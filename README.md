@@ -1,5 +1,5 @@
 # Logs
-logs 35
+logs 36
 *.log
 npm-debug.log*
 yarn-debug.log*
