@@ -1,5 +1,5 @@
 # Logs
-logs 94
+logs 945
 
 
 *.log
